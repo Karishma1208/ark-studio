@@ -288,16 +288,16 @@ padding-bottom: 8px;
 padding-bottom: 8px;
 }
 
-.testimonials p{
+.testimonials_wrapper p{
   width: 250px; margin-top: 10px; color: #aaabb6; font-size:small;
 
 }
 
-.testimonials img {
+.testimonials_wrapper img {
   border-radius: 50%;
 }
 
-.testimonials span{
+.testimonials_wrapper span{
   color:#aaabb6; font-size: small;
 }
 
